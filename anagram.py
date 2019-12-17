@@ -58,6 +58,3 @@ def search(pat, txt):
 txt = "aabaabaa"
 pat = "aaba"	
 search(pat, txt) 
-
-# This code is contributed 
-# by Upendra Singh Bartwal 
