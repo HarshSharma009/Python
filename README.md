@@ -1,2 +1,2 @@
 # Python
-Solution of general python problem
+Solution for general python problem
