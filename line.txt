@@ -1,0 +1,24 @@
+file 1: A wiki is run using wiki software, otherwise known as a wiki engine.
+file 2: A ikiw si nur gnisu ikiw ,erawtfos esiwrehto nwonk sa a ikiw .enigne 
+file 1: A wiki engine is a type of content management system, but it differs from most other such systems,
+file 2: A ikiw enigne si a epyt fo tnetnoc tnemeganam ,metsys tub ti sreffid morf tsom rehto hcus ,smetsys 
+file 1: including blog software, in that the content is created without any defined owner or leader,
+file 2: gnidulcni golb ,erawtfos ni taht eht tnetnoc si detaerc tuohtiw yna denifed renwo ro ,redael 
+file 1:  and wikis have little inherent structure, allowing structure to emerge according to the needs
+file 2: dna sikiw evah elttil tnerehni ,erutcurts gniwolla erutcurts ot egreme gnidrocca ot eht sdeen 
+file 1:  of the users.
+file 2: fo eht .sresu 
+file 1: There are dozens of different wiki engines in use,
+file 2: erehT era snezod fo tnereffid ikiw senigne ni ,esu 
+file 1:  both standalone and part of other software, such as bug tracking systems.
+file 2: htob enoladnats dna trap fo rehto ,erawtfos hcus sa gub gnikcart .smetsys 
+file 1:  Some wiki engines are open source, whereas others are proprietary.
+file 2: emoS ikiw senigne era nepo ,ecruos saerehw srehto era .yrateirporp 
+file 1:  Some permit control over different functions (levels of access);
+file 2: emoS timrep lortnoc revo tnereffid snoitcnuf slevel( fo ;)ssecca 
+file 1:  for example, editing rights may permit changing, adding, or 
+file 2: rof ,elpmaxe gnitide sthgir yam timrep ,gnignahc ,gnidda ro 
+file 1: removing material. Others may permit access without enforcing access control. Other rules may be imposed to organize content. 
+file 2: gnivomer .lairetam srehtO yam timrep ssecca tuohtiw gnicrofne ssecca .lortnoc rehtO selur yam eb desopmi ot ezinagro .tnetnoc 
+file 1: Aikiwsinurgnisuikiw,erawtfosesiwrehtonwonksaaikiw.enigneAikiwenignesiaepytfotnetnoctnemeganam
+file 1: Aikiwsinurgnisuikiw,erawtfosesiwrehtonwonksaaikiw.enigneAikiwenignesiaepytfotnetnoctnemeganam

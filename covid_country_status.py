@@ -68,6 +68,5 @@ e4.grid(row=10,column=3)
 tk.Label(master,text="Recovered Cases : -").grid(row=11)
 e5=tk.Entry(master)
 e5.grid(row=11,column=3)
-tk.Label(master,text="By Harsh Sharma").grid(row=12,column=4)
 
 master.mainloop()

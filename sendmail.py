@@ -1,0 +1,34 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May 13 10:18:32 2021
+
+@author: abcd
+"""
+
+import smtplib
+# set up the SMTP server
+sender = '17mh1a0530@acoe.edu.in'
+s = smtplib.SMTP(host='smtp-mail.outlook.com', port=587)
+s.starttls()
+s.login(sender, 'Acoe@321')
+
+
+
+from string import Template
+
+def read_template(filename):
+    with open(filename, 'r', encoding='utf-8') as template_file:
+        template_file_content = template_file.read()
+    return Template(template_file_content)
+
+message_template=read_template('message.txt')
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+msg = MIMEMultipart()
+message = message_template.substitute(PERSON_NAME='harsh'.title())
+msg['From']=sender
+msg['To']='anupam3083@gmail.com'
+msg['Subject']="This is TEST"
+msg.attach(MIMEText(message, 'plain'))
+s.send_message(msg)
+del msg

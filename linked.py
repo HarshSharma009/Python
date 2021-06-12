@@ -57,10 +57,10 @@ class LinkedList:
         currpos=0
         while True:
             if currpos==pos:
-                previous.next=nn
+                #previous.next=nn
                 nn.next=curr
                 break
-            previous = curr
+            #previous = curr
             curr = curr.next
             currpos += 1
     
